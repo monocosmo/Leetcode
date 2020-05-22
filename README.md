@@ -1,4 +1,4 @@
-LeetCode
+LeetCode Notes
 ========
 
 |NO.|Title|Note Class|Difficulty|Tag|
