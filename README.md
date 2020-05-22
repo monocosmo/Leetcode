@@ -1,4 +1,4 @@
-#<center>LeetCode Notes</center>
+LeetCode Notes
 ========
 
 |NO.|Title|Note Class|Difficulty|Tag|
