@@ -9,5 +9,5 @@ LeetCode Notes
 |96|[Unique Binary Search Trees (output total number)](https://leetcode.com/problems/unique-binary-search-trees/)|[Math](Math/lc96.md)|Medium|`Math` `Permutation` `DP` `BST`|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Recursion](Recursion/lc114.md)|Medium|`Recursion` `DFS` `Binary tree`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
-|994|[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 
