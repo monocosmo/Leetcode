@@ -10,4 +10,5 @@ LeetCode Notes
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Recursion](Recursion/lc114.md)|Medium|`Recursion` `DFS` `Binary tree`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Graph](Graph/lc133.md)|Medium|`Graph` `BFS` `DFS`|
 
