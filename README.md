@@ -12,5 +12,5 @@ LeetCode Notes
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Graph](Graph/lc133.md)|Medium|`Graph` `BFS` `DFS`|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[DP](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
 
