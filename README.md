@@ -11,4 +11,5 @@ LeetCode Notes
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Graph](Graph/lc133.md)|Medium|`Graph` `BFS` `DFS`|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
 
