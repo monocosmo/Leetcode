@@ -1,0 +1,72 @@
+# 1202. Smallest String With Swaps
+### Medium
+
+You are given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string.
+
+You can swap the characters at any pair of indices in the given pairs any number of times.
+
+Return the lexicographically smallest string that s can be changed to after using the swaps.
+
+**Example:**
+
+```
+Input: s = "dcab", pairs = [[0,3],[1,2]]
+Output: "bacd"
+Explaination: 
+Swap s[0] and s[3], s = "bcad"
+Swap s[1] and s[2], s = "bacd"
+```
+
+**思路：**
+
+这道题可以作为Union find的例题。思路比较直接：通过pairs构造connected components，然后依次填写index 0 到n-1位，每一位选取能够选取的最小字母。
+
+take-home-info有两点：
+1. 注意在find函数里压缩路径，保证每棵树最多只有三层。find和union的写法都背一下。
+2. 每一位选取能够选取的最小字母很多人写的都很繁琐，因为比如0和1在同一个connected components里，0选了最小字母，1就只能选次小字母。所以很多人的写法是记录每一个connected component里面选到第几个优先位置了。比较巧妙的做法是利用stack的pop函数，每次取出最小字母同时删掉。
+
+**Code:**
+```python
+class Solution:
+    def smallestStringWithSwaps(self, s: str, pairs: List[List[int]]) -> str:
+        n = len(s)
+        np = len(pairs)
+        
+        if n <= 1 or np == 0:
+            return s
+        
+        # Union-Find to form connected components
+        parent = list(range(n))
+        
+        def find(u):
+            while parent[u] != u:
+                parent[u] = parent[parent[u]] # Path compress
+                u = parent[u]
+            return u
+        
+        def union(u, v):
+            r1 = find(u)
+            r2 = find(v)
+            if r1 != r2:
+                parent[r1] = r2
+        
+        for p in pairs:
+            union(p[0], p[1])
+        
+        groups = {}
+        for i in range(n):
+            root = find(i)
+            groups[root] = groups.get(root, [])
+            groups[root].append(s[i])
+        
+        # Reverse sort so pop() is covinient to choose and remove the smallest char
+        for root in groups.keys():
+            groups[root].sort(reverse=True)
+        
+        # Select from the corresponding group from idx 0 - n-1
+        res = ''
+        for i in range(n):
+            res += groups[find(i)].pop()
+        
+        return res
+```
