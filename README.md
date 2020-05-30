@@ -18,3 +18,4 @@ LeetCode Notes
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Dynamic programming](Dynamic_programming/lc53.md)|Easy|`DP` `Tricky dp[i]`|
+|1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
