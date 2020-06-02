@@ -27,8 +27,8 @@ LeetCode Notes
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
-|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
 
