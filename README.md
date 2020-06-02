@@ -24,3 +24,4 @@ LeetCode Notes
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[DFS](DFS/lc465.md)|Hard|`DFS` `Graph`|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Linked list](Linked_list/lc25.md)|Hard|`Linked list` `Recursion`|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Two pointers](Two_pointers/lc19.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
+|243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
