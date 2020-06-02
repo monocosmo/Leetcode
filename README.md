@@ -26,4 +26,4 @@ LeetCode Notes
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Two pointers](Two_pointers/lc19.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Topological sort](Topological_sort/lc207.md)|Medium|`TOPO sort` `DAG`|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc207.md)|Medium|`Bucket sort` `Hashmap`|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
