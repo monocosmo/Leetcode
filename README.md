@@ -22,3 +22,4 @@ LeetCode Notes
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[DFS](DFS/lc465.md)|Hard|`DFS` `Graph`|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Linked list](Linked_list/lc25.md)|Hard|`Linked list` `Recursion`|
