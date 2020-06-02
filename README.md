@@ -10,6 +10,7 @@ LeetCode Notes
 |96|[Unique Binary Search Trees (output total number)](https://leetcode.com/problems/unique-binary-search-trees/)|[Math](Math/lc96.md)|Medium|`Math` `Permutation` `DP` `BST`|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Binary tree](Binary_tree/lc105.md)|Medium|`Binary tree` `Recursion` `Traverse`|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Recursion](Recursion/lc114.md)|Medium|`Recursion` `DFS` `Binary tree`|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Recursion](Recursion/lc124.md)|Hard|`Recursion` `Binary tree`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Graph](Graph/lc133.md)|Medium|`Graph` `BFS` `DFS`|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Topological sort](Topological_sort/lc207.md)|Medium|`TOPO sort` `DAG`|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
@@ -31,4 +32,3 @@ LeetCode Notes
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Recursion](Recursion/lc124.md)|Hard|`Recursion` `Binary tree`|
