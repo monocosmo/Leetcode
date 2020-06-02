@@ -31,4 +31,4 @@ LeetCode Notes
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
-
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Recursion](Recursion/lc124.md)|Hard|`Recursion` `Binary tree`|
