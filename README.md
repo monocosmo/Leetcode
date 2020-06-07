@@ -24,6 +24,7 @@ LeetCode Notes
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Two pointers](Two_pointers/lc487.md)|Medium|`Two pointers` `Sliding window` `Array`|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Recursion](Recursion/lc563.md)|Easy|`Recursion` `DFS`|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Two pointers](Two_pointers/lc680.md)|Easy|`Two pointers`|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
