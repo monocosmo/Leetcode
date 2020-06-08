@@ -5,6 +5,7 @@ LeetCode Notes
 |---|-----|----|----------|---|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Two pointers](Two_pointers/lc19.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Linked list](Linked_list/lc25.md)|Hard|`Linked list` `Recursion`|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Array](Array/lc41.md)|Hard|`Array` `Hashmap`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Dynamic programming](Dynamic_programming/lc53.md)|Easy|`DP` `Tricky dp[i]`|
 |95|[Unique Binary Search Trees (output combinations)](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Recursion](Recursion/lc95.md)|Medium|`Recursion` `Permutation` `BST`|
 |96|[Unique Binary Search Trees (output total number)](https://leetcode.com/problems/unique-binary-search-trees/)|[Math](Math/lc96.md)|Medium|`Math` `Permutation` `DP` `BST`|
@@ -20,7 +21,7 @@ LeetCode Notes
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Array](Array/lc334.md)|Medium|`Array`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Array](Array/lc448.md)|Easy|`Array`|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Array](Array/lc448.md)|Easy|`Array` `Hashmap`|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[DFS](DFS/lc465.md)|Hard|`DFS` `Graph`|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Two pointers](Two_pointers/lc487.md)|Medium|`Two pointers` `Sliding window` `Array`|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
