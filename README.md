@@ -24,6 +24,7 @@ LeetCode Notes
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Array](Array/lc334.md)|Medium|`Array`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
+|444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)|[Topological sort](Topological_sort/lc444.md)|Medium|`TOPO sort` `DAG`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Array](Array/lc448.md)|Easy|`Array` `Hashmap`|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[DFS](DFS/lc465.md)|Hard|`DFS` `Graph`|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Two pointers](Two_pointers/lc487.md)|Medium|`Two pointers` `Sliding window` `Array`|
