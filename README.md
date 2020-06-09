@@ -8,6 +8,7 @@ LeetCode Notes
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Array](Array/lc41.md)|Hard|`Array` `Hashmap`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Dynamic programming](Dynamic_programming/lc53.md)|Easy|`DP` `Tricky dp[i]`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Stack](Stack/lc84.md)|Hard|`Stack` `Magic number`|
+|91|[Decode Ways)](https://leetcode.com/problems/decode-ways/)|[Dynamic programming](Dynamic_programming/lc91.md)|Medium|`DP`|
 |95|[Unique Binary Search Trees (output combinations)](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Recursion](Recursion/lc95.md)|Medium|`Recursion` `Permutation` `BST`|
 |96|[Unique Binary Search Trees (output total number)](https://leetcode.com/problems/unique-binary-search-trees/)|[Math](Math/lc96.md)|Medium|`Math` `Permutation` `DP` `BST`|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Binary tree](Binary_tree/lc105.md)|Medium|`Binary tree` `Recursion` `Traverse`|
