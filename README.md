@@ -23,6 +23,7 @@ LeetCode Notes
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
+|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[BFS](BFS/lc317.md)|Hard|`BFS` `Matrix` `Distance`|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Array](Array/lc334.md)|Medium|`Array`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)|[Topological sort](Topological_sort/lc444.md)|Medium|`TOPO sort` `DAG`|
