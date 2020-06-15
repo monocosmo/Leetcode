@@ -47,5 +47,6 @@ LeetCode Notes
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Binary search](Binary_search/lc1060.md)|Medium|`Binary search` `Array`|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Stack](Stack/lc1249.md)|Medium|`Stack`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
 
