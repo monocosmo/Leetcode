@@ -37,6 +37,7 @@ LeetCode Notes
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Recursion](Recursion/lc563.md)|Easy|`Recursion` `DFS`|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Array](Array/lc611.md)|Medium|`Array` `Two pointers`|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Stack](Stack/lc654.md)|Medium|`Stack` `Binary tree`|
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[BFS](BFS/lc662.md)|Medium|`BFS` `Binary tree`|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Two pointers](Two_pointers/lc680.md)|Easy|`Two pointers`|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
