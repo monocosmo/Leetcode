@@ -27,6 +27,7 @@ LeetCode Notes
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[BFS](BFS/lc286.md)|Medium|`BFS` `Matrix`|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[BFS](BFS/lc317.md)|Hard|`BFS` `Matrix` `Distance`|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Stack](Stack/lc332.md)|Medium|`Stack` `DFS` `Graph`|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Array](Array/lc334.md)|Medium|`Array`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)|[Topological sort](Topological_sort/lc444.md)|Medium|`TOPO sort` `DAG`|
