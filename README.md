@@ -20,6 +20,7 @@ LeetCode Notes
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Array](Array/lc163.md)|Medium|`Array`|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Stack](Stack/lc173.md)|Medium|`Stack` `BST`|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Topological sort](Topological_sort/lc207.md)|Medium|`TOPO sort` `DAG`|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Trie](Trie/lc208.md)|Medium|`Trie`|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Binary tree](Binary_tree/lc222.md)|Medium|`Binary tree` `Recursion`|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Stack](Stack/lc224.md)|Hard|`Stack`|
