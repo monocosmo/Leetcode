@@ -28,6 +28,7 @@ LeetCode Notes
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[BFS](BFS/lc286.md)|Medium|`BFS` `Matrix`|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Heap](Heap/lc295.md)|Hard|`Heap`|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[BFS](BFS/lc317.md)|Hard|`BFS` `Matrix` `Distance`|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Stack](Stack/lc332.md)|Medium|`Stack` `DFS` `Graph`|
