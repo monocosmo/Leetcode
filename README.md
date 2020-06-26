@@ -52,6 +52,7 @@ LeetCode Notes
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Dynamic programming](Dynamic_programming/lc1048.md)|Medium|`DP` `Hashmap`|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Greedy](Greedy/lc1054.md)|Medium|`Greedy` `Array`|
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Binary search](Binary_search/lc1060.md)|Medium|`Binary search` `Array`|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
