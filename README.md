@@ -42,6 +42,7 @@ LeetCode Notes
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Recursion](Recursion/lc563.md)|Easy|`Recursion` `DFS`|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Array](Array/lc581.md)|Easy|`Array`|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Array](Array/lc611.md)|Medium|`Array` `Two pointers`|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Stack](Stack/lc654.md)|Medium|`Stack` `Binary tree`|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[BFS](BFS/lc662.md)|Medium|`BFS` `Binary tree`|
