@@ -27,6 +27,7 @@ LeetCode Notes
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Stack](Stack/lc224.md)|Hard|`Stack`|
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Dynamic programming](Dynamic_programming/lc264.md)|Medium|`DP`|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[BFS](BFS/lc286.md)|Medium|`BFS` `Matrix`|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Heap](Heap/lc295.md)|Hard|`Heap`|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
