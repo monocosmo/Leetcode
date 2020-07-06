@@ -7,6 +7,7 @@ LeetCode Notes
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Linked list](Linked_list/lc25.md)|Hard|`Linked list` `Recursion`|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Array](Array/lc41.md)|Hard|`Array` `Hashmap`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Dynamic programming](Dynamic_programming/lc53.md)|Easy|`DP` `Tricky dp[i]`|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Linked list](Linked_list/lc61.md)|Medium|`Linked list`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Stack](Stack/lc84.md)|Hard|`Stack` `Magic number`|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[DFS](DFS/lc90.md)|Medium|`DFS`|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Dynamic programming](Dynamic_programming/lc91.md)|Medium|`DP`|
