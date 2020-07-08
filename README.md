@@ -48,6 +48,7 @@ LeetCode Notes
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Array](Array/lc611.md)|Medium|`Array` `Two pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Array](Array/lc628.md)|Easy|`Array`|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Stack](Stack/lc654.md)|Medium|`Stack` `Binary tree`|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Binary search](Binary_search/lc658.md)|Medium|`Binary search` `Sliding window`|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[BFS](BFS/lc662.md)|Medium|`BFS` `Binary tree`|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Two pointers](Two_pointers/lc680.md)|Easy|`Two pointers`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Stack](Stack/lc739.md)|Medium|`Stack` `Array`|
