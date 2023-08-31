@@ -29,7 +29,7 @@ LeetCode Notes
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Binary tree](Binary_tree/lc222.md)|Medium|`Binary tree` `Recursion`|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Stack](Stack/lc224.md)|Hard|`Stack`|
-|227|[Basic Calculator II(https://leetcode.com/problems/basic-calculator-ii/)|[Stack](Stack/lc227.md)|Medium|`Stack`|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Stack](Stack/lc227.md)|Medium|`Stack`|
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Dynamic programming](Dynamic_programming/lc264.md)|Medium|`DP`|
