@@ -61,6 +61,7 @@ LeetCode Notes
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Stack](Stack/lc739.md)|Medium|`Stack` `Array`|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Two pointers](Two_pointers/lc763.md)|Medium|`Two pointers` `Array`|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Dynamic programming](Dynamic_programming/lc823.md)|Medium|`DP` `Math`|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
@@ -71,4 +72,5 @@ LeetCode Notes
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Stack](Stack/lc1249.md)|Medium|`Stack`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
-
+|1356|[Sort Integers by the Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Math](Math/lc1356.md)|Easy|`Bit` `Comparator`|
+|2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[DFS](DFS/lc2265.md)|Medium|`DFS` `Binary Tree` `Recursion`|
