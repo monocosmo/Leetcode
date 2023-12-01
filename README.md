@@ -22,6 +22,7 @@ LeetCode Notes
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Recursion](Recursion/lc124.md)|Hard|`Recursion` `Binary tree`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Array](Array/lc128.md)|Hard|`Array`|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[DFS](DFS/lc129.md)|Medium|`DFS` `Binary Tree`|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[DFS](DFS/lc130.md)|Medium|`DFS`|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Graph](Graph/lc133.md)|Medium|`Graph` `BFS` `DFS`|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Array](Array/lc163.md)|Medium|`Array`|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Bucket sort](Bucket_sort/lc164.md)|Medium|`Bucket sort` `Math`|
