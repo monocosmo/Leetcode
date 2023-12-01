@@ -33,6 +33,7 @@ LeetCode Notes
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[DFS](DFS/lc216.md)|Medium|`Trie` `DFS`|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Binary tree](Binary_tree/lc222.md)|Medium|`Binary tree` `Recursion`|
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Math](Math/lc223.md)|Medium|`Math`
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Stack](Stack/lc224.md)|Hard|`Stack`|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Stack](Stack/lc227.md)|Medium|`Stack`|
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
