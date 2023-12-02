@@ -36,6 +36,7 @@ LeetCode Notes
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Math](Math/lc223.md)|Medium|`Math`
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Stack](Stack/lc224.md)|Hard|`Stack`|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Stack](Stack/lc227.md)|Medium|`Stack`|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Stack](Stack/lc232.md)|Easy|`Stack` `Queue`|
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Dynamic programming](Dynamic_programming/lc264.md)|Medium|`DP`|
