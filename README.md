@@ -78,4 +78,5 @@ LeetCode Notes
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Stack](Stack/lc1249.md)|Medium|`Stack`|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[Dynamic programming](Dynamic_programming/lc1262.md)|Medium|`DP` `Math`|
 |1356|[Sort Integers by the Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Math](Math/lc1356.md)|Easy|`Bit` `Comparator`|
+|1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[Two pointers](Two_pointers/lc1838.md)|Medium|`Two pointers` `Sliding window`|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[DFS](DFS/lc2265.md)|Medium|`DFS` `Binary Tree` `Recursion`|
