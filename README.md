@@ -29,6 +29,7 @@ LeetCode Notes
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Stack](Stack/lc173.md)|Medium|`Stack` `BST`|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Topological sort](Topological_sort/lc207.md)|Medium|`TOPO sort` `DAG`|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Trie](Trie/lc208.md)|Medium|`Trie`|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)|[Trie](Trie/lc211.md)|Medium|`Trie`|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Trie](Trie/lc212.md)|Hard|`Trie` `DFS`|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[DFS](DFS/lc216.md)|Medium|`Trie` `DFS`|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Dynamic programming](Dynamic_programming/lc221.md)|Medium|`DP` `Matrix`|
