@@ -53,6 +53,7 @@ LeetCode Notes
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Array](Array/lc448.md)|Easy|`Array` `Hashmap`|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[DFS](DFS/lc465.md)|Hard|`DFS` `Graph`|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[Two pointers](Two_pointers/lc487.md)|Medium|`Two pointers` `Sliding window` `Array`|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[DFS](DFS/lc543.md)|Medium|`DFS` `Binary Tree`|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Recursion](Recursion/lc563.md)|Easy|`Recursion` `DFS`|
