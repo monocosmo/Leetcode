@@ -71,6 +71,7 @@ LeetCode Notes
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Two pointers](Two_pointers/lc763.md)|Medium|`Two pointers` `Array`|
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Dynamic programming](Dynamic_programming/lc823.md)|Medium|`DP` `Math`|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Graph](Graph/lc863.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
+|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Array](Array/lc880.md)|Hard|`Array` `Backward Travesal`|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Dynamic programming](Dynamic_programming/lc935.md)|Medium|`Dynamic programming`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
