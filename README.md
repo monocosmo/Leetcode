@@ -42,6 +42,7 @@ LeetCode Notes
 |243|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Two pointers](Two_pointers/lc243.md)|Medium|`Two pointers` `Fast-slow` `Linked list`|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Heap](Heap/lc253.md)|Medium|`Min-Heap`|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Dynamic programming](Dynamic_programming/lc264.md)|Medium|`DP`|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Binary search](Binary_search/lc275.md)|Medium|`Binary search`|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[BFS](BFS/lc286.md)|Medium|`BFS` `Matrix`|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Heap](Heap/lc295.md)|Hard|`Heap`|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[BFS](BFS/lc297.md)|Hard|`BFS` `Binary tree`|
@@ -78,6 +79,7 @@ LeetCode Notes
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Dynamic programming](Dynamic_programming/lc1048.md)|Medium|`DP` `Hashmap`|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Greedy](Greedy/lc1054.md)|Medium|`Greedy` `Array`|
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Binary search](Binary_search/lc1060.md)|Medium|`Binary search` `Array`|
+|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Dynamic programming](Dynamic_programming/lc1155.md)|Medium|`DP` `DFS`|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Tarjan](Tarjan/lc1192.md)|Hard|`Tarjan` `Graph`|
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Union find](Union_find/lc1202.md)|Medium|`UF` `Graph`|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Stack](Stack/lc1249.md)|Medium|`Stack`|
