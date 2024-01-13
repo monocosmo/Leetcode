@@ -89,3 +89,4 @@ LeetCode Notes
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)|[Greedy](Greedy/lc1578.md)|Medium|`Greedy` `Array`|
 |1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[Two pointers](Two_pointers/lc1838.md)|Medium|`Two pointers` `Sliding window`|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[DFS](DFS/lc2265.md)|Medium|`DFS` `Binary Tree` `Recursion`|
+|2385|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)|[Graph](Graph/lc2385.md)|Medium|`Graph` `Not Graph at First Glance` `BFS`|
