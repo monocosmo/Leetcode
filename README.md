@@ -77,6 +77,7 @@ LeetCode Notes
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Dynamic programming](Dynamic_programming/lc935.md)|Medium|`Dynamic programming`|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[BFS](BFS/lc994.md)|Medium|`BFS` `SET`|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Binary tree](Binary_tree/lc1008.md)|Medium|`BST` `Recursion`|
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[DFS](DFS/lc1026.md)|Medium|`DFS` `Binary Tree`|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Dynamic programming](Dynamic_programming/lc1048.md)|Medium|`DP` `Hashmap`|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Greedy](Greedy/lc1054.md)|Medium|`Greedy` `Array`|
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Binary search](Binary_search/lc1060.md)|Medium|`Binary search` `Array`|
