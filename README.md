@@ -51,6 +51,7 @@ LeetCode Notes
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Array](Array/lc334.md)|Medium|`Array`|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Recursion](Recursion/lc337.md)|Medium|`Recursion` `Binary tree`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Bucket sort](Bucket_sort/lc347.md)|Medium|`Bucket sort` `Hashmap`|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[Hash table](Hash_table/lc380.md)|Medium|`Hash table`|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)|[Topological sort](Topological_sort/lc444.md)|Medium|`TOPO sort` `DAG`|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[Dynamic programming](Dynamic_programming/lc446.md)|Hard|`Dynamic programming`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Array](Array/lc448.md)|Easy|`Array` `Hashmap`|
