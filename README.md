@@ -68,6 +68,7 @@ LeetCode Notes
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Stack](Stack/lc654.md)|Medium|`Stack` `Binary tree`|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Binary search](Binary_search/lc658.md)|Medium|`Binary search` `Sliding window`|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[BFS](BFS/lc662.md)|Medium|`BFS` `Binary tree`|
+|679|[24 Game](https://leetcode.com/problems/24-game/)|[DFS](DFS/lc679.md)|Hard|`DFS`|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Two pointers](Two_pointers/lc680.md)|Easy|`Two pointers`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Stack](Stack/lc739.md)|Medium|`Stack` `Array`|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[BFS](BFS/lc752.md)|Medium|`BFS` `Tree` `Not Tree at First Glance`|
