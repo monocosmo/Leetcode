@@ -61,6 +61,7 @@ LeetCode Notes
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Graph](Graph/lc547.md)|Medium|`Graph` `BFS` `DFS` `Not Graph at First Glance`|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Array](Array/lc560.md)|Medium|`Array` `Hashmap`|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Recursion](Recursion/lc563.md)|Easy|`Recursion` `DFS`|
+|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Dynamic programming](Dynamic_programming/lc576.md)|Medium|`Dynamic programming` `DFS`|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Array](Array/lc581.md)|Easy|`Array`|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Array](Array/lc611.md)|Medium|`Array` `Two pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Array](Array/lc628.md)|Easy|`Array`|
